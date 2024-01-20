@@ -12,6 +12,7 @@ This Age Calculator project is a simple web application built using HTML, CSS, a
 - **Age Calculation Logic:** The JavaScript logic accurately calculates the age based on the user's input, considering the current date.
 
 # Preview 
+![Age Calculator](AgeCalculator.png)
 
 # Project Structure
 - **HTML (index.html):** The main HTML file contains the structure of the web page, including the input form and result display.
