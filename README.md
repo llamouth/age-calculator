@@ -23,7 +23,7 @@ This Age Calculator project is a simple web application built using HTML, CSS, a
 # How to Use
 1. Open the index.html file in a web browser.
 
-2. Select your birthdate using the date dropwdown menu.
+2. Select your birthdate using the date dropdown menu.
 
 3. Click the "Calculate" button to see the calculated age.
 
