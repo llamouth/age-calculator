@@ -3,7 +3,6 @@
 This Age Calculator project is a simple web application built using HTML, CSS, and JavaScript. The calculator takes a user's birthdate as input and calculates their age in years, months, and days. The project aims to provide a visually appealing and user-friendly interface for calculating one's age effortlessly.
 
 # Features
-- **Responsive Design:** The calculator has a responsive design, ensuring a seamless user experience across various devices.
 
 - **Stylish Interface:** The user interface is designed with a modern and visually pleasing layout. The use of gradients and contrasting colors enhances the overall aesthetic.
 
